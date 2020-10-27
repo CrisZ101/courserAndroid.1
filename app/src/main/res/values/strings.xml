@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name" translatable="false">Clase 1: Diseño</string>
+
+    <string name="txtBienvenida"> Bienvenido </string>
+    <string name="imgFondo"> Fondo </string>
+    <string name="btnBoton"> Entrar </string>
+
+</resources>

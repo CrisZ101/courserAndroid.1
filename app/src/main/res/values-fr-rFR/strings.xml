@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="txtBienvenida"> Bienvenue </string>
+    <string name="imgFondo"> Fondue </string>
+    <string name="btnBoton"> Entrer </string>
+
+</resources>
